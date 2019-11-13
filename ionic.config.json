@@ -1,5 +1,7 @@
 {
   "name": "pwaTimer",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
